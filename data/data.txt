@@ -1,0 +1,2 @@
+The dataset is downloaded from :
+The data is stored in the data/ directory, in 'train' and 'test', with each folder containing two folders with the images: 'benign' and 'malignant'.
